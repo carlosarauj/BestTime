@@ -1,0 +1,13 @@
+#p{
+    text-align: center;
+    border-color: aqua;
+    font-size: 100px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Isso garante que o conteúdo seja centralizado verticalmente também */
+}
+
